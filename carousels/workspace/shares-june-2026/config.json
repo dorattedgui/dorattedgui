@@ -1,0 +1,68 @@
+{
+  "title": "5 Shares to Invest in June 2026",
+  "profile": {
+    "display_name": "Your Name",
+    "handle": "@yourhandle"
+  },
+  "theme": "dark",
+  "slides": [
+    {
+      "type": "hook",
+      "text": "The 5 shares *smart money* is buying in June 2026.",
+      "subtitle": "Markets are volatile. That's the point.",
+      "image": "hero-chart.jpg",
+      "annotation": "save this list"
+    },
+    {
+      "type": "body",
+      "title": "THE SETUP",
+      "text": "S&P 500 near all-time highs. *Tariffs. Iran. Rate fears.* Volatility = opportunity for those who know where to look."
+    },
+    {
+      "type": "body",
+      "title": "#1 NVIDIA — NVDA",
+      "text": "*AI infrastructure* isn't slowing. Data center demand is accelerating globally.",
+      "image": "nvda-card.png",
+      "bullets": [
+        "Revenue up *78% YoY*",
+        "*40+ analyst* Strong Buy ratings",
+        "Price target: $200+"
+      ]
+    },
+    {
+      "type": "body",
+      "title": "#2 PALANTIR — PLTR",
+      "text": "*85% revenue growth* in Q1 2026. Government AI contracts just getting started.",
+      "image": "pltr-card.png",
+      "bullets": [
+        "71% projected revenue growth",
+        "CFRA Buy, target *$192*",
+        "US + NATO defense expansion"
+      ]
+    },
+    {
+      "type": "body",
+      "title": "#3–5 THE REST",
+      "bullets": [
+        "*Eli Lilly (LLY)* — GLP-1 drugs still dominant",
+        "*Amazon (AMZN)* — AWS + ads flywheel unstoppable",
+        "*Constellation Energy (CEG)* — nuclear power renaissance"
+      ]
+    },
+    {
+      "type": "body",
+      "title": "THE PLAY",
+      "text": "Don't time the market. *Time in* the market wins long-term.",
+      "bullets": [
+        "Dollar-cost average monthly",
+        "Hold *18+ months* minimum",
+        "Spread across at least 3 sectors"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Follow for weekly stock picks and market breakdowns.",
+      "button_text": "Follow for more"
+    }
+  ]
+}
